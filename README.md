@@ -50,7 +50,7 @@ To clean the data, run the [Python Code](https://github.com/AbdallahOdeh2/Data-S
 ## License
 This project is licensed under the MIT License.
 
-Feel free to contact me `Abdallah` `abdallahodeh13@email.com` for any questions or feedback.
+Feel free to contact me `Abdallah` [My Email](abdallahodeh13@email.com) for any questions or feedback.
 
 Happy cleaning!
     
